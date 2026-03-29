@@ -104,5 +104,8 @@ No constituye asesoramiento financiero ni recomendación de inversión.
 
 ## 📬 Contacto
 
-Si te interesa el proyecto o quieres comentarlo, estaré encantado de conectar.
-www.linkedin.com/in/eugenio-martín-pérez
+Puedes encontrarme en LinkedIn:
+
+👉 https://www.linkedin.com/in/tu-perfil
+
+Estoy abierto a comentar el proyecto o recibir comentarios.

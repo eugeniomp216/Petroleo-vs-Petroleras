@@ -83,4 +83,26 @@ Esto sugiere un fenómeno de:
 
 ---
 
-## 📁 Estructura del proyecto
+
+---
+
+## ⚠️ Disclaimer
+
+Este análisis se ha realizado con fines educativos y de investigación.  
+No constituye asesoramiento financiero ni recomendación de inversión.
+
+---
+
+## 🚀 Tecnologías utilizadas
+
+- Python
+- pandas
+- yfinance
+- matplotlib
+
+---
+
+## 📬 Contacto
+
+Si te interesa el proyecto o quieres comentarlo, estaré encantado de conectar.
+www.linkedin.com/in/eugenio-martín-pérez
